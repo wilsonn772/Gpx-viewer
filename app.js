@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
     // Initialize the map
-     const map = L.map('map').setView([51.505, -0.09], 13);
+     const map = L.map('map').setView([-41.4545, 145.9707], 7);
     
 
     // Add OpenStreetMap tile layer
