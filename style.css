@@ -9,7 +9,10 @@ body, html {
     height: 90vh;
 }
 
-#gpxFileInput {
+    #gpxFileInput {
     display: block;
     margin: 10px auto;
+    width: 80%;
+    max-width: 300px; /* Adjust the maximum width as needed */
+}
 }
